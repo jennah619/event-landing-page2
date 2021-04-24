@@ -29,11 +29,11 @@ nav ul > li > a#logo_title{
     background-color: white;
     color: white;
     font-size: .85rem;
-    transition: .8s
+    
     
 }
 .jumbotron > a:hover {
-    background-color: lightyellow;
-    color: darkgray;
+    background-color: gray;
+    color: black;
 
 }

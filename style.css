@@ -5,7 +5,7 @@
 }
 nav{
     background-color: lightgray;
-    color: white;
+    color: black;
     height: 60px;
 
 }
@@ -20,9 +20,9 @@ nav ul > li > a#logo_title{
 }
 
 .jumbotron{
-    background: url(https://images.pexels.com/photos/327064/pexels-photo-327064.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940) no-repeat center center;
+    background: url(https://images.pexels.com/photos/911738/pexels-photo-911738.jpeg?cs=srgb&dl=pexels-gdtography-911738.jpg&fm=jpg) no-repeat center center;
     background-size: cover;
-    height: 500px;
+    height: 300px;
 }
 
 .jumbotron>a {

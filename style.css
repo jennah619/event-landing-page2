@@ -1,5 +1,39 @@
 *{
     margin: 0;
     padding: 0;
+
+}
+nav{
+    background-color: lightgray;
+    color: white;
+    height: 60px;
+
+}
+a,
+a:hover{
+    color: black;
+
+}
+nav ul > li > a#logo_title{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.jumbotron{
+    background: url(https://images.pexels.com/photos/327064/pexels-photo-327064.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940) no-repeat center center;
+    background-size: cover;
+    height: 500px;
+}
+
+.jumbotron>a {
+    background-color: white;
+    color: white;
+    font-size: .85rem;
+    transition: .8s
     
+}
+.jumbotron > a:hover {
+    background-color: lightyellow;
+    color: darkgray;
+
 }

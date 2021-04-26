@@ -40,6 +40,11 @@ nav ul > li > a#logo_title{
 img[src="img/earth2.jpg"] {
     height: 66.5%;
 }
+hr.one{
+    border: none;
+    height: 1px;
+    background: gray;
+}
 
 #advertisement {
     height: 600px;

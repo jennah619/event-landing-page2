@@ -7,8 +7,8 @@ nav{
     background-color: lightgray;
     color: black;
     height: 60px;
-
 }
+
 a,
 a:hover{
     color: black;
@@ -37,7 +37,7 @@ nav ul > li > a#logo_title{
     color: black;
 
 }
-img[src="img/fire7.jpg"] {
+img[src="img/earth2.jpg"] {
     height: 66.5%;
 }
 

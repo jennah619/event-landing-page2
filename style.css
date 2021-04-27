@@ -38,8 +38,8 @@ nav ul > li > a#logo_title{
 
 }
 img[src="img/earth2.jpg"] {
-    height: 66.5%;
-}
+     height: 66.5%; 
+} 
 hr.one{
     border: none;
     height: 1px;
@@ -65,5 +65,5 @@ footer #absolute_wrapper {
     font-size: 1.6rem;
     letter-spacing: 3px;
     color: rgba(0, 0, 0, 0.6);
-    background-color: gray;
+    background-color: lightgray;
 }
